@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "useState"
+    },
+    {
+      "id": 2,
+      "title": "useEffect"
+    },
+    {
+      "id": 3,
+      "title": "useMemo"
+    },
+    {
+      "id": 4,
+      "title": "useCallback"
+    },
+    {
+      "id": 5,
+      "title": "useRef"
+    },
+    {
+      "id": 6,
+      "title": "redux"
+    },
+    {
+      "id": 7,
+      "title": "redux-thunk"
+    },
+    {
+      "id": 8,
+      "title": "LocalStorage"
+    },
+    {
+      "id": 9,
+      "title": "SessionStorage"
+    },
+    {
+      "id": 10,
+      "title": "json-server"
+    }
+  ]
+}
